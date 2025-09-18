@@ -35,7 +35,7 @@ Siga os passos abaixo para configurar o projeto no seu ambiente de desenvolvimen
 
 1.  **Clone o Repositório**
     ```sh
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/lh5818181/mod29-jdbc-projeto.git]
     cd mod29-jdbc-projeto
     ```
 2.  **Configuração do Banco de Dados**
